@@ -9,7 +9,6 @@
                 font-family: 'Nunito', sans-serif;
             }
             .flex-style{
-               /* display:flex;   */
             }
             .inline-style{
                 margin: 5px; 
